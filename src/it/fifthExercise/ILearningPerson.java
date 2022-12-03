@@ -3,5 +3,5 @@ package it.fifthExercise;
 public interface ILearningPerson {
 
 
-    void studyAtHome();
+    public void studyAtHome();
 }
