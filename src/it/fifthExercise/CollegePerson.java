@@ -6,6 +6,6 @@ public class CollegePerson {
     public int collegeId;
 
     void goToCollege(){
-        System.out.println(name + surname + collegeId);
+        System.out.println(name + " " + surname + " " + collegeId);
     }
 }

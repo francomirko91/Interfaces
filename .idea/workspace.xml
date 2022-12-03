@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce09a89c-ca9f-4167-945d-fe92e6d014f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/it/fifthExercise/Assistant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/fifthExercise/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/fifthExercise/Start.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
